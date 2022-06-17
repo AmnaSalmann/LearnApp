@@ -36,7 +36,7 @@
                 android:layout_marginLeft="6dp"
                 android:background="#4299B3"
                 android:backgroundTint="#FF42B3AF"
-                android:text="@string/Homebtn1"
+                android:text="@string/Learn"
                 android:textSize="20sp" />
 
             <Button
@@ -45,7 +45,7 @@
                 android:layout_height="91dp"
                 android:layout_marginLeft="6dp"
                 android:backgroundTint="#428BB3"
-                android:text="@string/Homebtn2"
+                android:text="@string/Quiz"
                 android:textSize="20sp" />
 
             <Button
@@ -55,7 +55,7 @@
                 android:layout_marginLeft="6dp"
                 android:background="#FDD835"
                 android:backgroundTint="#36A5A1"
-                android:text="@string/Homebtn3"
+                android:text="@string/Github"
                 android:textColor="#607D8B"
                 android:textSize="20sp" />
 
@@ -66,7 +66,7 @@
                 android:layout_marginLeft="6dp"
                 android:background="#FDD835"
                 android:backgroundTint="#36A5A1"
-                android:text="@string/Homebtn4"
+                android:text="@string/Learn List"
                 android:textColor="#607D8B"
                 android:textSize="20sp" />
 
